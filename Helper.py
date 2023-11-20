@@ -2,8 +2,8 @@ import re
 import nrrd
 import requests
 
-access_token = '5307815831:AAEKVzHQFAVWMwXseU9L1yKKtsBq4YPZM8Y'
-chat_id = '503932462'
+access_token = ''
+chat_id = ''
 
 def read_nrrd_file(filepath):
     '''read and load volume'''
